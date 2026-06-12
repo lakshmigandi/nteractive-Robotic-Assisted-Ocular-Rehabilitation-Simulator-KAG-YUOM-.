@@ -1,0 +1,7 @@
+gradio==5.0.0
+langchain-huggingface
+langchain-core
+langgraph
+pypdf
+faiss-cpu
+huggingface_hub
